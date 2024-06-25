@@ -1,1 +1,1 @@
-# MapNewsApplication
+# Update MapNewsApplication Adding developer A story
