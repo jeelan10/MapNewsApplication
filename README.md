@@ -1,1 +1,1 @@
-# MapNewsApplication
+# Updated MapNewsApplication Developer B Story
